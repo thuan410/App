@@ -8,7 +8,6 @@ function Navigate() {
             <Row className='w-100 pt-4 pb-3 shadow-sm'>
                 <Col xs={12} md={6} className="d-flex justify-content-center align-items-center">
                     <div id='Nav-logo' className='d-flex justify-content-center align-items-center'>
-                        <img width={'60px'} src="https://www.theknowhowlib.com/wp-content/uploads/2020/05/Swiggy-2.png" alt="Thuan logo" />
                         <div className="ms-3">
                             <p style={{ fontSize: "14px" }} className='fw-bold text-decoration-underline mb-1'>
                                 Kakkanad
@@ -47,4 +46,4 @@ function Navigate() {
     );
 }
 
-export default Navigate
+export default Navigate;
